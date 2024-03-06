@@ -1,0 +1,2 @@
+vision_visp/vision_visp
+/home/avinaash/catkin_ws/devel/.private/vision_visp/cmake.lock /home/avinaash/catkin_ws/devel/./cmake.lock

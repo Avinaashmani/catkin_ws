@@ -6,5 +6,5 @@ CXX_FLAGS =  -fopenmp -fPIC -fPIC   -std=c++17
 
 CXX_DEFINES = -DBOOST_FILESYSTEM_VERSION=3 -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"visp_bridge\" -Dvisp_bridge_EXPORTS
 
-CXX_INCLUDES = -I/home/avinaash/catkin_ws/src/vision_visp/visp_bridge/include -isystem /usr/include/opencv4 -isystem /usr/include/eigen3 -isystem /usr/include/libxml2 -isystem /usr/include/pcl-1.10 -isystem /usr/include/vtk-7.1 -isystem /usr/include/freetype2 -isystem /usr/include/ni -isystem /usr/include/openni2 -isystem /usr/include/libusb-1.0 -isystem /usr/include/OGRE -isystem /usr/include/ois -isystem /opt/ros/noetic/include -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
+CXX_INCLUDES = -I/home/avinaash/catkin_ws/src/vision_visp/visp_bridge/include -isystem /opt/ros/noetic/include -isystem /usr/include/opencv4 -isystem /usr/include/eigen3 -isystem /usr/include/libxml2 -isystem /usr/include/OGRE -isystem /usr/include/ois -isystem /opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 

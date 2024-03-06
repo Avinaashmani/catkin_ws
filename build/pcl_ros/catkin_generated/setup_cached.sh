@@ -9,5 +9,6 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/avinaash/catkin_ws/devel/.private/pcl_ros:$CMAKE_PREFIX_PATH"
 export PWD='/home/avinaash/catkin_ws/build/pcl_ros'
+export PYTHONPATH="/home/avinaash/catkin_ws/devel/lib/python3/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/avinaash/catkin_ws/devel/.private/pcl_ros/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/avinaash/catkin_ws/src/perception_pcl/pcl_ros:$ROS_PACKAGE_PATH"

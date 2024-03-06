@@ -1,5 +1,0 @@
-[ 22%] Built target visp_auto_tracker_cmd_line
-Checking md5sum on /home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/share/visp_auto_tracker/bag/tutorial-qrcode.bag
-[ 22%] Built target visp_auto_tracker_bag
-[ 55%] Built target auto_tracker
-[100%] Built target visp_auto_tracker

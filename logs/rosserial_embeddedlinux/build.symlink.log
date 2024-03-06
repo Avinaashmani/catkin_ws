@@ -1,5 +1,5 @@
-Linked: (/home/avinaash/catkin_ws/devel/.private/rosserial_embeddedlinux/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake, /home/avinaash/catkin_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake)
-Linked: (/home/avinaash/catkin_ws/devel/.private/rosserial_embeddedlinux/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake, /home/avinaash/catkin_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake)
-Linked: (/home/avinaash/catkin_ws/devel/.private/rosserial_embeddedlinux/lib/pkgconfig/rosserial_embeddedlinux.pc, /home/avinaash/catkin_ws/devel/lib/pkgconfig/rosserial_embeddedlinux.pc)
-Linked: (/home/avinaash/catkin_ws/devel/.private/rosserial_embeddedlinux/lib/rosserial_embeddedlinux/cmake.lock, /home/avinaash/catkin_ws/devel/lib/rosserial_embeddedlinux/cmake.lock)
-Linked: (/home/avinaash/catkin_ws/devel/.private/rosserial_embeddedlinux/lib/rosserial_embeddedlinux/make_libraries.py, /home/avinaash/catkin_ws/devel/lib/rosserial_embeddedlinux/make_libraries.py)
+Symlinking /home/avinaash/catkin_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig.cmake
+Symlinking /home/avinaash/catkin_ws/devel/share/rosserial_embeddedlinux/cmake/rosserial_embeddedlinuxConfig-version.cmake
+Symlinking /home/avinaash/catkin_ws/devel/lib/pkgconfig/rosserial_embeddedlinux.pc
+Symlinking /home/avinaash/catkin_ws/devel/lib/rosserial_embeddedlinux/cmake.lock
+Symlinking /home/avinaash/catkin_ws/devel/lib/rosserial_embeddedlinux/make_libraries.py

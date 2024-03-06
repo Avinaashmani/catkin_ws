@@ -200,7 +200,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_camera_calibration/visp_camera_calibration_calibrator")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_camera_calibration/visp_camera_calibration_calibrator"
-         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/usr/local/lib:/opt/ros/noetic/lib:"
+         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/opt/ros/noetic/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_camera_calibration/visp_camera_calibration_calibrator")
@@ -220,7 +220,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_camera_calibration/visp_camera_calibration_camera")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_camera_calibration/visp_camera_calibration_camera"
-         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/usr/local/lib:/opt/ros/noetic/lib:"
+         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/opt/ros/noetic/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_camera_calibration/visp_camera_calibration_camera")
@@ -240,7 +240,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libvisp_camera_calibration_common.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libvisp_camera_calibration_common.so"
-         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/usr/local/lib:/opt/ros/noetic/lib:"
+         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/opt/ros/noetic/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libvisp_camera_calibration_common.so")
@@ -263,7 +263,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_camera_calibration/visp_camera_calibration_image_processing")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_camera_calibration/visp_camera_calibration_image_processing"
-         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/usr/local/lib:/opt/ros/noetic/lib:"
+         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/opt/ros/noetic/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_camera_calibration/visp_camera_calibration_image_processing")

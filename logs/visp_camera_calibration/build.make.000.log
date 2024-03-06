@@ -1,121 +1,121 @@
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
 [  0%] Built target rosgraph_msgs_generate_messages_nodejs
-[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
 [35m[1mScanning dependencies of target visp_camera_calibration_common[0m
-[  0%] Built target std_msgs_generate_messages_cpp
-[35m[1mScanning dependencies of target _visp_camera_calibration_generate_messages_check_deps_calibrate[0m
 [  2%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_common.dir/src/names.cpp.o[0m
-[35m[1mScanning dependencies of target _visp_camera_calibration_generate_messages_check_deps_ImagePoint[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  2%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _visp_camera_calibration_generate_messages_check_deps_calibrate[0m
 [  2%] Built target _visp_camera_calibration_generate_messages_check_deps_calibrate
-[35m[1mScanning dependencies of target _visp_camera_calibration_generate_messages_check_deps_ImageAndPoints[0m
+[35m[1mScanning dependencies of target _visp_camera_calibration_generate_messages_check_deps_ImagePoint[0m
 [  2%] Built target _visp_camera_calibration_generate_messages_check_deps_ImagePoint
+[35m[1mScanning dependencies of target _visp_camera_calibration_generate_messages_check_deps_ImageAndPoints[0m
 [35m[1mScanning dependencies of target _visp_camera_calibration_generate_messages_check_deps_CalibPointArray[0m
 [  2%] Built target _visp_camera_calibration_generate_messages_check_deps_ImageAndPoints
 [35m[1mScanning dependencies of target _visp_camera_calibration_generate_messages_check_deps_CalibPoint[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [  2%] Built target _visp_camera_calibration_generate_messages_check_deps_CalibPointArray
-[  2%] Built target geometry_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
-[  2%] Built target _visp_camera_calibration_generate_messages_check_deps_CalibPoint
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [  2%] Built target sensor_msgs_generate_messages_cpp
-[  2%] Built target geometry_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  2%] Built target geometry_msgs_generate_messages_nodejs
+[  2%] Built target _visp_camera_calibration_generate_messages_check_deps_CalibPoint
 [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  2%] Built target roscpp_generate_messages_py
 [  2%] Built target std_msgs_generate_messages_py
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
-[  2%] Built target rosgraph_msgs_generate_messages_py
 [35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  2%] Built target rosgraph_msgs_generate_messages_py
 [  2%] Built target std_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
 [  2%] Built target sensor_msgs_generate_messages_lisp
-[  2%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
 [  2%] Built target sensor_msgs_generate_messages_py
-[  2%] Built target geometry_msgs_generate_messages_py
+[  2%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  2%] Built target geometry_msgs_generate_messages_py
+[  2%] Built target sensor_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
-[  2%] Built target sensor_msgs_generate_messages_eus
 [  2%] Built target roscpp_generate_messages_cpp
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [  2%] Built target roscpp_generate_messages_lisp
-[  2%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
-[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
 [  2%] Built target std_msgs_generate_messages_eus
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  2%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
 [  2%] Built target roscpp_generate_messages_nodejs
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
 [  2%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
 [  2%] Built target geometry_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
-[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
 [  2%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
 [  2%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  2%] Built target rosgraph_msgs_generate_messages_lisp
 [  2%] Built target rosgraph_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target visp_camera_calibration_generate_messages_py[0m
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
 [  5%] [34m[1mGenerating Python from MSG visp_camera_calibration/CalibPoint[0m
-[  5%] Built target rosgraph_msgs_generate_messages_lisp
+[  7%] [34m[1mGenerating Python from MSG visp_camera_calibration/CalibPointArray[0m
+[ 10%] [34m[1mGenerating Python from MSG visp_camera_calibration/ImageAndPoints[0m
+[ 12%] [34m[1mGenerating Python from MSG visp_camera_calibration/ImagePoint[0m
 [35m[1mScanning dependencies of target visp_camera_calibration_generate_messages_nodejs[0m
-[  7%] [34m[1mGenerating Javascript code from visp_camera_calibration/CalibPoint.msg[0m
-[35m[1mScanning dependencies of target visp_camera_calibration_generate_messages_lisp[0m
-[ 10%] [34m[1mGenerating Javascript code from visp_camera_calibration/CalibPointArray.msg[0m
-[ 12%] [34m[1mGenerating Lisp code from visp_camera_calibration/CalibPoint.msg[0m
-[ 15%] [34m[1mGenerating Javascript code from visp_camera_calibration/ImageAndPoints.msg[0m
-[ 17%] [34m[1mGenerating Python from MSG visp_camera_calibration/CalibPointArray[0m
-[ 20%] [34m[1mGenerating Lisp code from visp_camera_calibration/CalibPointArray.msg[0m
+[ 15%] [34m[1mGenerating Javascript code from visp_camera_calibration/CalibPoint.msg[0m
+[ 17%] [34m[1mGenerating Javascript code from visp_camera_calibration/CalibPointArray.msg[0m
+[ 20%] [34m[1mGenerating Javascript code from visp_camera_calibration/ImageAndPoints.msg[0m
 [ 23%] [34m[1mGenerating Javascript code from visp_camera_calibration/ImagePoint.msg[0m
-[ 25%] [34m[1mGenerating Lisp code from visp_camera_calibration/ImageAndPoints.msg[0m
-[ 28%] [34m[1mGenerating Javascript code from visp_camera_calibration/calibrate.srv[0m
-[ 30%] [34m[1mGenerating Lisp code from visp_camera_calibration/ImagePoint.msg[0m
-[ 33%] [34m[1mGenerating Python from MSG visp_camera_calibration/ImageAndPoints[0m
-[ 33%] Built target visp_camera_calibration_generate_messages_nodejs
-[ 35%] [34m[1mGenerating Lisp code from visp_camera_calibration/calibrate.srv[0m
-[ 35%] Built target visp_camera_calibration_generate_messages_lisp
+[ 25%] [34m[1mGenerating Python code from SRV visp_camera_calibration/calibrate[0m
+[35m[1mScanning dependencies of target visp_camera_calibration_generate_messages_lisp[0m
+[ 28%] [34m[1mGenerating Lisp code from visp_camera_calibration/CalibPoint.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from visp_camera_calibration/calibrate.srv[0m
+[ 33%] [34m[1mGenerating Lisp code from visp_camera_calibration/CalibPointArray.msg[0m
+[ 35%] [34m[1mGenerating Lisp code from visp_camera_calibration/ImageAndPoints.msg[0m
 [35m[1mScanning dependencies of target visp_camera_calibration_generate_messages_eus[0m
-[ 38%] [34m[1mGenerating Python from MSG visp_camera_calibration/ImagePoint[0m
-[ 41%] [34m[1mGenerating EusLisp code from visp_camera_calibration/CalibPoint.msg[0m
-[ 43%] [34m[1mGenerating Python code from SRV visp_camera_calibration/calibrate[0m
-[ 46%] [34m[1mGenerating EusLisp code from visp_camera_calibration/CalibPointArray.msg[0m
-[ 48%] [34m[1mGenerating EusLisp code from visp_camera_calibration/ImageAndPoints.msg[0m
-[ 51%] [34m[1mGenerating EusLisp code from visp_camera_calibration/ImagePoint.msg[0m
-[ 53%] [34m[1mGenerating EusLisp code from visp_camera_calibration/calibrate.srv[0m
-[ 56%] [34m[1mGenerating EusLisp manifest code for visp_camera_calibration[0m
-[ 58%] [34m[1mGenerating Python msg __init__.py for visp_camera_calibration[0m
-[ 61%] [34m[1mGenerating Python srv __init__.py for visp_camera_calibration[0m
-[ 61%] Built target visp_camera_calibration_generate_messages_py
+[ 35%] Built target visp_camera_calibration_generate_messages_nodejs
+[ 38%] [34m[1mGenerating Lisp code from visp_camera_calibration/ImagePoint.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from visp_camera_calibration/calibrate.srv[0m
 [35m[1mScanning dependencies of target visp_camera_calibration_generate_messages_cpp[0m
-[ 64%] [34m[1mGenerating C++ code from visp_camera_calibration/CalibPoint.msg[0m
-[ 66%] [34m[1mGenerating C++ code from visp_camera_calibration/CalibPointArray.msg[0m
-[ 69%] [34m[1mGenerating C++ code from visp_camera_calibration/ImageAndPoints.msg[0m
-[ 71%] [34m[1mGenerating C++ code from visp_camera_calibration/ImagePoint.msg[0m
+[ 43%] [34m[1mGenerating EusLisp code from visp_camera_calibration/CalibPoint.msg[0m
+[ 46%] [34m[1mGenerating C++ code from visp_camera_calibration/CalibPoint.msg[0m
+[ 48%] [34m[1mGenerating Python msg __init__.py for visp_camera_calibration[0m
+[ 51%] [34m[1mGenerating EusLisp code from visp_camera_calibration/CalibPointArray.msg[0m
+[ 51%] Built target visp_camera_calibration_generate_messages_lisp
+[ 53%] [34m[1mGenerating EusLisp code from visp_camera_calibration/ImageAndPoints.msg[0m
+[ 56%] [34m[1mGenerating EusLisp code from visp_camera_calibration/ImagePoint.msg[0m
+[ 58%] [34m[1mGenerating C++ code from visp_camera_calibration/CalibPointArray.msg[0m
+[ 61%] [34m[1mGenerating C++ code from visp_camera_calibration/ImageAndPoints.msg[0m
+[ 64%] [34m[1mGenerating C++ code from visp_camera_calibration/ImagePoint.msg[0m
+[ 66%] [34m[1mGenerating EusLisp code from visp_camera_calibration/calibrate.srv[0m
+[ 69%] [34m[1mGenerating Python srv __init__.py for visp_camera_calibration[0m
+[ 71%] [34m[1mGenerating EusLisp manifest code for visp_camera_calibration[0m
 [ 74%] [34m[1mGenerating C++ code from visp_camera_calibration/calibrate.srv[0m
-[ 74%] Built target visp_camera_calibration_generate_messages_eus
+[ 74%] Built target visp_camera_calibration_generate_messages_py
 [ 74%] Built target visp_camera_calibration_generate_messages_cpp
-[ 76%] [32m[1mLinking CXX shared library /home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib/libvisp_camera_calibration_common.so[0m
-[35m[1mScanning dependencies of target visp_camera_calibration_generate_messages[0m
 [35m[1mScanning dependencies of target visp_camera_calibration_gencpp[0m
-[ 76%] Built target visp_camera_calibration_generate_messages
-[ 76%] Built target visp_camera_calibration_gencpp
+[ 74%] Built target visp_camera_calibration_gencpp
+[ 76%] [32m[1mLinking CXX shared library /home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib/libvisp_camera_calibration_common.so[0m
 [ 76%] Built target visp_camera_calibration_common
-[35m[1mScanning dependencies of target visp_camera_calibration_image_processing[0m
-[35m[1mScanning dependencies of target visp_camera_calibration_camera[0m
 [35m[1mScanning dependencies of target visp_camera_calibration_calibrator[0m
+[35m[1mScanning dependencies of target visp_camera_calibration_camera[0m
+[35m[1mScanning dependencies of target visp_camera_calibration_image_processing[0m
+[ 76%] Built target visp_camera_calibration_generate_messages_eus
+[35m[1mScanning dependencies of target visp_camera_calibration_generate_messages[0m
+[ 76%] Built target visp_camera_calibration_generate_messages
 [ 79%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_calibrator.dir/src/calibrator.cpp.o[0m
-[ 82%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_camera.dir/src/camera.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_calibrator.dir/src/calibrator_main.cpp.o[0m
 [ 84%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_image_processing.dir/src/image_processing.cpp.o[0m
-[ 87%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_image_processing.dir/src/image_processing_main.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_camera.dir/src/camera.cpp.o[0m
 [ 89%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_camera.dir/src/camera_main.cpp.o[0m
-[ 92%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_calibrator.dir/src/calibrator_main.cpp.o[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/visp_camera_calibration_image_processing.dir/src/image_processing_main.cpp.o[0m
 [ 94%] [32m[1mLinking CXX executable /home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib/visp_camera_calibration/visp_camera_calibration_calibrator[0m
+[ 94%] Built target visp_camera_calibration_calibrator
 [ 97%] [32m[1mLinking CXX executable /home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib/visp_camera_calibration/visp_camera_calibration_camera[0m
-[ 97%] Built target visp_camera_calibration_calibrator
 [100%] [32m[1mLinking CXX executable /home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/lib/visp_camera_calibration/visp_camera_calibration_image_processing[0m
 [100%] Built target visp_camera_calibration_camera
 [100%] Built target visp_camera_calibration_image_processing

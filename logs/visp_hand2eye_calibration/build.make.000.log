@@ -1,53 +1,53 @@
-[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
-[  0%] Built target rosgraph_msgs_generate_messages_lisp
-[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
-[  0%] Built target std_msgs_generate_messages_lisp
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
 [  0%] Built target rosgraph_msgs_generate_messages_nodejs
 [35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target _visp_hand2eye_calibration_generate_messages_check_deps_compute_effector_camera_quick[0m
 [  0%] Built target std_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
-[  0%] Built target sensor_msgs_generate_messages_cpp
-[35m[1mScanning dependencies of target _visp_hand2eye_calibration_generate_messages_check_deps_compute_effector_camera_quick[0m
 [35m[1mScanning dependencies of target _visp_hand2eye_calibration_generate_messages_check_deps_compute_effector_camera[0m
-[  0%] Built target _visp_hand2eye_calibration_generate_messages_check_deps_compute_effector_camera
-[  0%] Built target _visp_hand2eye_calibration_generate_messages_check_deps_compute_effector_camera_quick
+[  0%] Built target sensor_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target _visp_hand2eye_calibration_generate_messages_check_deps_TransformArray[0m
-[  0%] Built target _visp_hand2eye_calibration_generate_messages_check_deps_TransformArray
 [35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
 [  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _visp_hand2eye_calibration_generate_messages_check_deps_compute_effector_camera_quick
 [35m[1mScanning dependencies of target _visp_hand2eye_calibration_generate_messages_check_deps_reset[0m
+[  0%] Built target _visp_hand2eye_calibration_generate_messages_check_deps_compute_effector_camera
+[  0%] Built target _visp_hand2eye_calibration_generate_messages_check_deps_TransformArray
 [  0%] Built target _visp_hand2eye_calibration_generate_messages_check_deps_reset
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
-[  0%] Built target geometry_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
 [35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
-[  0%] Built target roscpp_generate_messages_nodejs
 [  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
-[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
 [35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
 [  0%] Built target rosgraph_msgs_generate_messages_py
-[  0%] Built target roscpp_generate_messages_lisp
-[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
-[  0%] Built target geometry_msgs_generate_messages_py
-[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
 [  0%] Built target sensor_msgs_generate_messages_py
-[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_lisp
 [35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
 [  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
-[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
 [35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
 [  0%] Built target std_msgs_generate_messages_nodejs
 [  0%] Built target std_msgs_generate_messages_py
-[35m[1mScanning dependencies of target image_proc_gencfg[0m
 [35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
-[  0%] Built target image_proc_gencfg
+[35m[1mScanning dependencies of target image_proc_gencfg[0m
 [  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target image_proc_gencfg
 [35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
 [  0%] Built target roscpp_generate_messages_eus
 [35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
@@ -61,51 +61,51 @@
 [35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
 [  3%] Built target rosgraph_msgs_generate_messages_eus
 [35m[1mScanning dependencies of target visp_hand2eye_calibration_generate_messages_nodejs[0m
-[  6%] [34m[1mGenerating Javascript code from visp_hand2eye_calibration/TransformArray.msg[0m
-[  9%] [34m[1mGenerating Javascript code from visp_hand2eye_calibration/compute_effector_camera.srv[0m
-[ 12%] [34m[1mGenerating Javascript code from visp_hand2eye_calibration/compute_effector_camera_quick.srv[0m
-[ 16%] [34m[1mGenerating Javascript code from visp_hand2eye_calibration/reset.srv[0m
-[ 16%] Built target visp_hand2eye_calibration_generate_messages_nodejs
 [35m[1mScanning dependencies of target visp_hand2eye_calibration_generate_messages_lisp[0m
-[ 19%] [34m[1mGenerating Lisp code from visp_hand2eye_calibration/TransformArray.msg[0m
-[ 22%] [34m[1mGenerating Lisp code from visp_hand2eye_calibration/compute_effector_camera.srv[0m
+[  6%] [34m[1mGenerating Javascript code from visp_hand2eye_calibration/TransformArray.msg[0m
+[  9%] [34m[1mGenerating Lisp code from visp_hand2eye_calibration/TransformArray.msg[0m
+[ 12%] [34m[1mGenerating Lisp code from visp_hand2eye_calibration/compute_effector_camera.srv[0m
+[ 16%] [34m[1mGenerating Javascript code from visp_hand2eye_calibration/compute_effector_camera.srv[0m
+[ 19%] [34m[1mGenerating Javascript code from visp_hand2eye_calibration/compute_effector_camera_quick.srv[0m
+[ 22%] [34m[1mGenerating Lisp code from visp_hand2eye_calibration/compute_effector_camera_quick.srv[0m
 [35m[1mScanning dependencies of target visp_hand2eye_calibration_generate_messages_eus[0m
-[ 25%] [34m[1mGenerating EusLisp code from visp_hand2eye_calibration/TransformArray.msg[0m
-[ 29%] [34m[1mGenerating Lisp code from visp_hand2eye_calibration/compute_effector_camera_quick.srv[0m
-[ 32%] [34m[1mGenerating Lisp code from visp_hand2eye_calibration/reset.srv[0m
-[ 35%] [34m[1mGenerating EusLisp code from visp_hand2eye_calibration/compute_effector_camera.srv[0m
-[ 35%] Built target visp_hand2eye_calibration_generate_messages_lisp
-[ 38%] [34m[1mGenerating EusLisp code from visp_hand2eye_calibration/compute_effector_camera_quick.srv[0m
+[ 25%] [34m[1mGenerating Javascript code from visp_hand2eye_calibration/reset.srv[0m
+[ 29%] [34m[1mGenerating Lisp code from visp_hand2eye_calibration/reset.srv[0m
+[ 32%] [34m[1mGenerating EusLisp code from visp_hand2eye_calibration/TransformArray.msg[0m
+[ 32%] Built target visp_hand2eye_calibration_generate_messages_lisp
 [35m[1mScanning dependencies of target visp_hand2eye_calibration_generate_messages_py[0m
-[ 41%] [34m[1mGenerating Python from MSG visp_hand2eye_calibration/TransformArray[0m
-[ 45%] [34m[1mGenerating Python code from SRV visp_hand2eye_calibration/compute_effector_camera[0m
-[ 48%] [34m[1mGenerating EusLisp code from visp_hand2eye_calibration/reset.srv[0m
-[ 51%] [34m[1mGenerating EusLisp manifest code for visp_hand2eye_calibration[0m
-[ 54%] [34m[1mGenerating Python code from SRV visp_hand2eye_calibration/reset[0m
-[ 58%] [34m[1mGenerating Python code from SRV visp_hand2eye_calibration/compute_effector_camera_quick[0m
-[ 61%] [34m[1mGenerating Python msg __init__.py for visp_hand2eye_calibration[0m
-[ 64%] [34m[1mGenerating Python srv __init__.py for visp_hand2eye_calibration[0m
-[ 64%] Built target visp_hand2eye_calibration_generate_messages_py
+[ 32%] Built target visp_hand2eye_calibration_generate_messages_nodejs
+[ 35%] [34m[1mGenerating Python from MSG visp_hand2eye_calibration/TransformArray[0m
+[ 38%] [34m[1mGenerating EusLisp code from visp_hand2eye_calibration/compute_effector_camera.srv[0m
+[ 41%] [34m[1mGenerating EusLisp code from visp_hand2eye_calibration/compute_effector_camera_quick.srv[0m
 [35m[1mScanning dependencies of target visp_hand2eye_calibration_generate_messages_cpp[0m
-[ 67%] [34m[1mGenerating C++ code from visp_hand2eye_calibration/compute_effector_camera_quick.srv[0m
-[ 70%] [34m[1mGenerating C++ code from visp_hand2eye_calibration/TransformArray.msg[0m
-[ 74%] [34m[1mGenerating C++ code from visp_hand2eye_calibration/compute_effector_camera.srv[0m
-[ 77%] [34m[1mGenerating C++ code from visp_hand2eye_calibration/reset.srv[0m
-[ 77%] Built target visp_hand2eye_calibration_generate_messages_eus
+[ 45%] [34m[1mGenerating C++ code from visp_hand2eye_calibration/TransformArray.msg[0m
+[ 48%] [34m[1mGenerating EusLisp code from visp_hand2eye_calibration/reset.srv[0m
+[ 51%] [34m[1mGenerating Python code from SRV visp_hand2eye_calibration/compute_effector_camera[0m
+[ 54%] [34m[1mGenerating Python code from SRV visp_hand2eye_calibration/compute_effector_camera_quick[0m
+[ 58%] [34m[1mGenerating EusLisp manifest code for visp_hand2eye_calibration[0m
+[ 61%] [34m[1mGenerating C++ code from visp_hand2eye_calibration/compute_effector_camera.srv[0m
+[ 64%] [34m[1mGenerating C++ code from visp_hand2eye_calibration/compute_effector_camera_quick.srv[0m
+[ 67%] [34m[1mGenerating Python code from SRV visp_hand2eye_calibration/reset[0m
+[ 70%] [34m[1mGenerating C++ code from visp_hand2eye_calibration/reset.srv[0m
+[ 77%] [34m[1mGenerating Python srv __init__.py for visp_hand2eye_calibration[0m
+[ 77%] [34m[1mGenerating Python msg __init__.py for visp_hand2eye_calibration[0m
 [ 77%] Built target visp_hand2eye_calibration_generate_messages_cpp
 [35m[1mScanning dependencies of target visp_hand2eye_calibration_gencpp[0m
 [ 77%] Built target visp_hand2eye_calibration_gencpp
+[ 77%] Built target visp_hand2eye_calibration_generate_messages_py
+[ 77%] Built target visp_hand2eye_calibration_generate_messages_eus
 [35m[1mScanning dependencies of target visp_hand2eye_calibration_generate_messages[0m
 [ 77%] Built target visp_hand2eye_calibration_generate_messages
 [ 80%] [32m[1mLinking CXX shared library /home/avinaash/catkin_ws/devel/.private/visp_hand2eye_calibration/lib/libvisp_hand2eye_calibration_common.so[0m
 [ 80%] Built target visp_hand2eye_calibration_common
-[35m[1mScanning dependencies of target visp_hand2eye_calibration_calibrator[0m
 [35m[1mScanning dependencies of target visp_hand2eye_calibration_client[0m
-[ 83%] [32mBuilding CXX object CMakeFiles/visp_hand2eye_calibration_client.dir/src/client.cpp.o[0m
-[ 87%] [32mBuilding CXX object CMakeFiles/visp_hand2eye_calibration_calibrator.dir/src/calibrator.cpp.o[0m
-[ 90%] [32mBuilding CXX object CMakeFiles/visp_hand2eye_calibration_calibrator.dir/src/calibrator_main.cpp.o[0m
-[ 93%] [32mBuilding CXX object CMakeFiles/visp_hand2eye_calibration_client.dir/src/client_main.cpp.o[0m
-[ 96%] [32m[1mLinking CXX executable /home/avinaash/catkin_ws/devel/.private/visp_hand2eye_calibration/lib/visp_hand2eye_calibration/visp_hand2eye_calibration_calibrator[0m
-[100%] [32m[1mLinking CXX executable /home/avinaash/catkin_ws/devel/.private/visp_hand2eye_calibration/lib/visp_hand2eye_calibration/visp_hand2eye_calibration_client[0m
+[35m[1mScanning dependencies of target visp_hand2eye_calibration_calibrator[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/visp_hand2eye_calibration_client.dir/src/client_main.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/visp_hand2eye_calibration_client.dir/src/client.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/visp_hand2eye_calibration_calibrator.dir/src/calibrator.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/visp_hand2eye_calibration_calibrator.dir/src/calibrator_main.cpp.o[0m
+[ 96%] [32m[1mLinking CXX executable /home/avinaash/catkin_ws/devel/.private/visp_hand2eye_calibration/lib/visp_hand2eye_calibration/visp_hand2eye_calibration_client[0m
+[ 96%] Built target visp_hand2eye_calibration_client
+[100%] [32m[1mLinking CXX executable /home/avinaash/catkin_ws/devel/.private/visp_hand2eye_calibration/lib/visp_hand2eye_calibration/visp_hand2eye_calibration_calibrator[0m
 [100%] Built target visp_hand2eye_calibration_calibrator
-[100%] Built target visp_hand2eye_calibration_client

@@ -155,7 +155,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libauto_tracker.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libauto_tracker.so"
-         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/lib:/usr/local/lib:/opt/ros/noetic/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/home/avinaash/catkin_ws/devel/.private/visp_tracker/lib:"
+         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/lib:/opt/ros/noetic/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/home/avinaash/catkin_ws/devel/.private/visp_tracker/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libauto_tracker.so")
@@ -178,7 +178,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_auto_tracker/visp_auto_tracker")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_auto_tracker/visp_auto_tracker"
-         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/lib:/usr/local/lib:/opt/ros/noetic/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/home/avinaash/catkin_ws/devel/.private/visp_tracker/lib:"
+         OLD_RPATH "/home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/lib:/opt/ros/noetic/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/home/avinaash/catkin_ws/devel/.private/visp_tracker/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/visp_auto_tracker/visp_auto_tracker")
@@ -198,7 +198,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libvisp_auto_tracker_cmd_line.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libvisp_auto_tracker_cmd_line.so"
-         OLD_RPATH "/usr/local/lib:/opt/ros/noetic/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/home/avinaash/catkin_ws/devel/.private/visp_tracker/lib:"
+         OLD_RPATH "/opt/ros/noetic/lib:/home/avinaash/catkin_ws/devel/.private/visp_bridge/lib:/home/avinaash/catkin_ws/devel/.private/visp_tracker/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libvisp_auto_tracker_cmd_line.so")

@@ -1,0 +1,5 @@
+scripts
+/home/avinaash/catkin_ws/devel/.private/scripts/cmake.lock /home/avinaash/catkin_ws/devel/./cmake.lock
+/home/avinaash/catkin_ws/devel/.private/scripts/share/scripts/cmake/scriptsConfig.cmake /home/avinaash/catkin_ws/devel/share/scripts/cmake/scriptsConfig.cmake
+/home/avinaash/catkin_ws/devel/.private/scripts/share/scripts/cmake/scriptsConfig-version.cmake /home/avinaash/catkin_ws/devel/share/scripts/cmake/scriptsConfig-version.cmake
+/home/avinaash/catkin_ws/devel/.private/scripts/lib/pkgconfig/scripts.pc /home/avinaash/catkin_ws/devel/lib/pkgconfig/scripts.pc

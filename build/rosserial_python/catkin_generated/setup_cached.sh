@@ -9,6 +9,7 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/avinaash/catkin_ws/devel/.private/rosserial_python:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/avinaash/catkin_ws/devel/.private/rosserial_python/lib:$LD_LIBRARY_PATH"
+export PATH="/home/avinaash/catkin_ws/devel/bin:$PATH"
 export PKG_CONFIG_PATH="/home/avinaash/catkin_ws/devel/.private/rosserial_python/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/avinaash/catkin_ws/build/rosserial_python'
 export PYTHONPATH="/home/avinaash/catkin_ws/devel/.private/rosserial_python/lib/python3/dist-packages:$PYTHONPATH"

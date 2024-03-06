@@ -32,18 +32,12 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/avinaash/catkin_ws/devel/.private/visp_tracker/include"
   "/home/avinaash/catkin_ws/src/vision_visp/visp_tracker/src/libvisp_tracker"
+  "/opt/ros/noetic/include"
   "/usr/include/opencv4"
   "/usr/include/eigen3"
   "/usr/include/libxml2"
-  "/usr/include/pcl-1.10"
-  "/usr/include/vtk-7.1"
-  "/usr/include/freetype2"
-  "/usr/include/ni"
-  "/usr/include/openni2"
-  "/usr/include/libusb-1.0"
   "/usr/include/OGRE"
   "/usr/include/ois"
-  "/opt/ros/noetic/include"
   "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   )
 

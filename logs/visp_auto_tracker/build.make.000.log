@@ -1,6 +1,6 @@
 [35m[1mScanning dependencies of target visp_auto_tracker_bag[0m
-Downloading https://github.com/lagadic/vision_visp/releases/download/vision_visp-0.5.0/tutorial-qrcode.bag to /home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/share/visp_auto_tracker/bag/tutorial-qrcode.bag...[35m[1mScanning dependencies of target visp_auto_tracker_cmd_line[0m
-[ 11%] [32mBuilding CXX object CMakeFiles/visp_auto_tracker_cmd_line.dir/flashcode_mbt/cmd_line/cmd_line.cpp.o[0m
+[35m[1mScanning dependencies of target visp_auto_tracker_cmd_line[0m
+Downloading https://github.com/lagadic/vision_visp/releases/download/vision_visp-0.5.0/tutorial-qrcode.bag to /home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/share/visp_auto_tracker/bag/tutorial-qrcode.bag...[ 11%] [32mBuilding CXX object CMakeFiles/visp_auto_tracker_cmd_line.dir/flashcode_mbt/cmd_line/cmd_line.cpp.o[0m
  done.
 Checking md5sum on /home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/share/visp_auto_tracker/bag/tutorial-qrcode.bag
 [ 11%] Built target visp_auto_tracker_bag
@@ -12,8 +12,8 @@ Checking md5sum on /home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/sha
 [ 55%] [32m[1mLinking CXX shared library /home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/lib/libauto_tracker.so[0m
 [ 55%] Built target auto_tracker
 [35m[1mScanning dependencies of target visp_auto_tracker[0m
-[ 88%] [32mBuilding CXX object CMakeFiles/visp_auto_tracker.dir/src/names.cpp.o[0m
-[ 88%] [32mBuilding CXX object CMakeFiles/visp_auto_tracker.dir/src/main.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/visp_auto_tracker.dir/src/main.cpp.o[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/visp_auto_tracker.dir/src/names.cpp.o[0m
 [ 88%] [32mBuilding CXX object CMakeFiles/visp_auto_tracker.dir/src/node.cpp.o[0m
 [100%] [32m[1mLinking CXX executable /home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/lib/visp_auto_tracker/visp_auto_tracker[0m
 [100%] Built target visp_auto_tracker

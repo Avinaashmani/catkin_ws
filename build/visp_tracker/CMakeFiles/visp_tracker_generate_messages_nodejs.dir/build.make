@@ -92,8 +92,8 @@ CMakeFiles/visp_tracker_generate_messages_nodejs: /home/avinaash/catkin_ws/devel
 
 /home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/msg/MovingEdgeSites.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/msg/MovingEdgeSites.js: /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg/MovingEdgeSites.msg
-/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/msg/MovingEdgeSites.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 /home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/msg/MovingEdgeSites.js: /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg/MovingEdgeSite.msg
+/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/msg/MovingEdgeSites.js: /opt/ros/noetic/share/std_msgs/msg/Header.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/avinaash/catkin_ws/build/visp_tracker/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Generating Javascript code from visp_tracker/MovingEdgeSites.msg"
 	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg/MovingEdgeSites.msg -Ivisp_tracker:/home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p visp_tracker -o /home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/msg
 
@@ -104,12 +104,12 @@ CMakeFiles/visp_tracker_generate_messages_nodejs: /home/avinaash/catkin_ws/devel
 
 /home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /opt/ros/noetic/lib/gennodejs/gen_nodejs.py
 /home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/srv/Init.srv
-/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /opt/ros/noetic/share/geometry_msgs/msg/Transform.msg
-/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg/KltSettings.msg
-/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
-/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
-/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg/MovingEdgeSettings.msg
 /home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg/TrackerSettings.msg
+/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg/MovingEdgeSettings.msg
+/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /opt/ros/noetic/share/geometry_msgs/msg/Transform.msg
+/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /opt/ros/noetic/share/geometry_msgs/msg/Vector3.msg
+/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /opt/ros/noetic/share/geometry_msgs/msg/Quaternion.msg
+/home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv/Init.js: /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg/KltSettings.msg
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/avinaash/catkin_ws/build/visp_tracker/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Generating Javascript code from visp_tracker/Init.srv"
 	catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/gennodejs/cmake/../../../lib/gennodejs/gen_nodejs.py /home/avinaash/catkin_ws/src/vision_visp/visp_tracker/srv/Init.srv -Ivisp_tracker:/home/avinaash/catkin_ws/src/vision_visp/visp_tracker/msg -Igeometry_msgs:/opt/ros/noetic/share/geometry_msgs/cmake/../msg -Isensor_msgs:/opt/ros/noetic/share/sensor_msgs/cmake/../msg -Istd_msgs:/opt/ros/noetic/share/std_msgs/cmake/../msg -p visp_tracker -o /home/avinaash/catkin_ws/devel/.private/visp_tracker/share/gennodejs/ros/visp_tracker/srv
 
