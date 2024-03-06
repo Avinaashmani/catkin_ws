@@ -1,0 +1,1 @@
+/home/avinaash/catkin_ws/devel/.private/visp_auto_tracker/lib/pkgconfig/visp_auto_tracker.pc

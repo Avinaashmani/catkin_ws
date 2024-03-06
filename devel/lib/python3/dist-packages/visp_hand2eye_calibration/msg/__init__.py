@@ -1,0 +1,1 @@
+/home/avinaash/catkin_ws/devel/.private/visp_hand2eye_calibration/lib/python3/dist-packages/visp_hand2eye_calibration/msg/__init__.py

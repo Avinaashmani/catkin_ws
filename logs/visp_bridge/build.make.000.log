@@ -1,0 +1,11 @@
+[35m[1mScanning dependencies of target visp_bridge[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/visp_bridge.dir/src/compat/vpQuaternionVector.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/visp_bridge.dir/src/conversions/3dpose.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/visp_bridge.dir/src/conversions/image.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/visp_bridge.dir/src/conversions/camera.cpp.o[0m
+[ 71%] [32m[1mLinking CXX shared library /home/avinaash/catkin_ws/devel/.private/visp_bridge/lib/libvisp_bridge.so[0m
+[ 71%] Built target visp_bridge
+[35m[1mScanning dependencies of target visp_bridge_convert_camera_parameters[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/visp_bridge_convert_camera_parameters.dir/src/conversions/convert_cam_param_file.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/avinaash/catkin_ws/devel/.private/visp_bridge/lib/visp_bridge/visp_bridge_convert_camera_parameters[0m
+[100%] Built target visp_bridge_convert_camera_parameters

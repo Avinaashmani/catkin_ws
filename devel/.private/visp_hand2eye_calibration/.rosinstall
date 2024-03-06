@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/avinaash/catkin_ws/devel/.private/visp_hand2eye_calibration/setup.sh

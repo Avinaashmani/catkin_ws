@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/setup.sh

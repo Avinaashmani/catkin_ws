@@ -1,0 +1,1 @@
+/home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/share/gennodejs/ros/visp_camera_calibration/msg/ImagePoint.js

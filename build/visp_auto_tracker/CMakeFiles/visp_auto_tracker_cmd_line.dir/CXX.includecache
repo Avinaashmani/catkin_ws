@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avinaash/catkin_ws/src/vision_visp/visp_auto_tracker/flashcode_mbt/cmd_line/cmd_line.cpp
+cmd_line.h
+/home/avinaash/catkin_ws/src/vision_visp/visp_auto_tracker/flashcode_mbt/cmd_line/cmd_line.h
+iostream
+-
+fstream
+-
+visp3/core/vpConfig.h
+-
+visp3/core/vpIoTools.h
+-
+visp3/mbt/vpMbGenericTracker.h
+-
+
+/home/avinaash/catkin_ws/src/vision_visp/visp_auto_tracker/flashcode_mbt/cmd_line/cmd_line.h
+boost/program_options/cmdline.hpp
+-
+boost/program_options/variables_map.hpp
+-
+boost/program_options/options_description.hpp
+-
+boost/program_options/parsers.hpp
+-
+exception
+-
+string
+-
+visp3/core/vpConfig.h
+-
+visp3/core/vpPoint.h
+-
+

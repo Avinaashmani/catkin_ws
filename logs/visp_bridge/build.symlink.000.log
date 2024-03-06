@@ -1,0 +1,5 @@
+Symlinking /home/avinaash/catkin_ws/devel/share/visp_bridge/cmake/visp_bridgeConfig.cmake
+Symlinking /home/avinaash/catkin_ws/devel/share/visp_bridge/cmake/visp_bridgeConfig-version.cmake
+Symlinking /home/avinaash/catkin_ws/devel/lib/libvisp_bridge.so
+Symlinking /home/avinaash/catkin_ws/devel/lib/visp_bridge/visp_bridge_convert_camera_parameters
+Symlinking /home/avinaash/catkin_ws/devel/lib/pkgconfig/visp_bridge.pc

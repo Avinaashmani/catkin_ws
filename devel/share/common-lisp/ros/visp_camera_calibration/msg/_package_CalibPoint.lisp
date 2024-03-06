@@ -1,0 +1,1 @@
+/home/avinaash/catkin_ws/devel/.private/visp_camera_calibration/share/common-lisp/ros/visp_camera_calibration/msg/_package_CalibPoint.lisp

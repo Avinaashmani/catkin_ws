@@ -1,0 +1,1 @@
+/home/avinaash/catkin_ws/devel/.private/visp_hand2eye_calibration/share/roseus/ros/visp_hand2eye_calibration/manifest.l
